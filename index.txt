@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<title> ICT 9 E-PORTFOLIO </title>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" >
+</head>
+<body>
+<h1> My E-Portfolio! </h1> 
+	<img src="1.png" alt="Home Page" width="60px" height="60px">
+	<img src="2.png" alt="Browser Outputs" width="60px" height="60px">
+	<img src="3.png" alt="2nd Quarter Activities" width="60px" height="60px">
+	<img src="4.png" alt="Reflection" width="60px" height="60px">
+	<img src="giphy.gif" Alt="Click -" width="40px" height="40px">
+<p align="center" style="font-size:20px;"> Hello again! My name is Santino Castillo, and I'm back for another E-Portfolio. I am a student from 9-family of LPSci, and I would like to update my current status on my likes, hobbies, etc. </p>
+<h1> My Favorites! </h1>
+<ol type="I">
+	<li> My Hobbies </li>
+		<ul>
+			<li> Dancing </li>
+			<li> Singing </li>
+			<li> Writing </li>
+		</ul>
+	<li> My Favorite Artists </li>
+		<ul>
+			<li><a href="https://www.laufeymusic.com/"> Laufey </li>
+			<li><a href="https://nikizefanya.com/"> Nicole Zefanya </li>
+			<li><a href="https://www.instagram.com/wave_to_earth/"> Wave To Earth </a></li>
+		</ul>
+	<li> My Favorite People </li>
+		<ul>
+			<li> Friends </li>
+			<li> Family </li>
+			<li> Teachers </li>
+		</ul>
+	<li> My Favorite Songs </li>
+		<ul>
+			<li> La La Lost You (Acoustic Version) - NIKI </li><audio controls> <source src="niki.mp3" type="audio/mp3"> </audio>
+			<li> Letter To My 13 Year Old Self - Laufey </li><audio controls> <source src="laufey.mp3" type="audio/mp3"> </audio>
+			<li> love. - Wave To Earth </li>
+<audio controls> <source src="wavetoearth.mp3" type="audio/mp3"></audio>
+		</ul>
+</ol>
+
+<h1> My Likes & Dislikes! </h1>
+<table align="center" border="4" bordercolor="#2b5737" width="50%" cellpadding="5" cellspacing="5">
+	<tr>
+		<th colspan="3"><i><b> Santi's Table </b></i></th>
+	</tr>
+	<tr bgcolor="#9ebf93">
+		<th><i>Item Type</i></th>
+		<th>Likes    </th>
+		<th>Dislikes </th>
+	</tr>
+	<tr bgcolor="#9ebf93">
+		<td align="left"><b> I. Drinks </b></td>
+		<td> Matcha Latte, Matcha Frappe </td>
+		<td> Coffee, Buko Juice </td>
+	</tr>
+	<tr bgcolor="#9ebf93">
+		<td align="left"><b> II. Food <b></td>
+		<td> Croissants, Fries, Mangoes </td>
+		<td> Durian, Rambutan </td>
+	</tr>
+	<tr bgcolor="#9ebf93">
+		<td align="left"><b> III. Animals </b></td>
+		<td> Bunnies, Cats, Bears </td>
+		<td> Snakes, Bugs, Wolves </td>
+	</tr>
+</table>
+
+</body>
+</html>
